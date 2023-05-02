@@ -1,0 +1,34 @@
+﻿  Player.cpp
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(185,22): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(194,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(195,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(207,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(208,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(223,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(224,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Dev\C_PlusPlus\JumpW\JumpW\scr\Player.cpp(64): warning C4172: returning address of local variable or temporary: anim_switch
+  JumpW.vcxproj -> C:\Dev\C_PlusPlus\JumpW\x64\Debug\JumpW.exe
